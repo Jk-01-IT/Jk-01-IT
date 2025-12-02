@@ -49,10 +49,11 @@ Driven by efficiency, customer satisfaction, and operational excellence.
 
 # 🧰 **Tech Stack & Tools**
 
-<p align="center">
-  <img src= "![OneTrust Logo](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)"/><br/>
-  <img src="https://skillicons.dev/icons?i=postman" />
-</p>
+<p align="center"> <!-- First Row --> <img src="https://img.shields.io/badge/OneTrust-00A651?style=for-the-badge&logo=trustpilot&logoColor=white" /> <img src="https://img.shields.io/badge/ServiceNow-7CC142?style=for-the-badge&logo=servicenow&logoColor=white" /> <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Infosphere%20MDM-003A70?style=for-the-badge&logo=ibm&logoColor=white" />
+<br><br>
+<!-- Second Row --> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" /> <img src="https://img.shields.io/badge/Coralogix-1A9FFF?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" />
+<br><br>
+<!-- Third Row --> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" /> </p>
 
 ---
 
@@ -142,10 +143,10 @@ Driven by efficiency, customer satisfaction, and operational excellence.
 
 # 📊 **GitHub Stats**
 
-<p align="center">
+<!--<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jk-01-IT&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jk-01-IT&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jk-01-IT&theme=tokyonight" />
