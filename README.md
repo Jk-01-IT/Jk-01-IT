@@ -11,7 +11,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-blue?style=flat-square&logo=google-maps" /></a>
   <a href="mailto:jeebankumarmishra11@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-green?style=flat-square&logo=gmail" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Phone-8018559591-orange?style=flat-square&logo=whatsapp" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/jeeban-kumar-mishra-3007701a0/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 
 ---
@@ -22,6 +22,18 @@ IT Professional with **5+ years of experience** in **ITSM**, **ITIL V4**, **TPRM
 Specialist in **OneTrust**, **SaaS operations**, and **global major incident management**.
 Experienced in leading offshore teams, improving processes, and delivering end-to-end application support.
 Driven by efficiency, customer satisfaction, and operational excellence.
+
+---
+
+# 🌱 **I’m currently learning** 
+
+**ITIL v4 Expert cerification, Advanced methodologies under Third party risk management, Data Privacy Policies, GRC**
+
+---
+
+# 💬 **Ask me about** 
+
+**Third party risk management techniques, IT service management methodologies, IT infrastructure and library methodology solutions and consulting solution**
 
 ---
 
@@ -47,7 +59,7 @@ Driven by efficiency, customer satisfaction, and operational excellence.
 
 ---
 
-# 🧰 **Tech Stack & Tools**
+# 🧰 **Tools Expertise**
 
 <p align="center"> <!-- First Row --> <img src="https://img.shields.io/badge/OneTrust-00A651?style=for-the-badge&logo=trustpilot&logoColor=white" /> <img src="https://img.shields.io/badge/ServiceNow-7CC142?style=for-the-badge&logo=servicenow&logoColor=white" /> <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /> <img src="https://img.shields.io/badge/Infosphere%20MDM-003A70?style=for-the-badge&logo=ibm&logoColor=white" />
 <br><br>
@@ -162,14 +174,13 @@ Driven by efficiency, customer satisfaction, and operational excellence.
 
 ---
 
-# 🤝 **Let’s Connect**
+<!--# 🤝 **Let’s Connect**
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Email-jeebankumarmishra11%40gmail.com-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-purple?style=for-the-badge&logo=internet-explorer" /></a>
+<p align="center"> 
+  <a href="mailto:jeebankumarmishra11@gmail.com"> <img src="https://img.shields.io/badge/Email-jeebankumarmishra11%40gmail.com-red?style=for-the-badge&logo=gmail" /> </a>   
+  <a href="https://www.linkedin.com/in/jeeban-kumar-mishra-3007701a0/"> <img src="https://img.shields.io/badge/LinkedIn-Jeeban%20Kumar%20Mishra-blue?style=for-the-badge&logo=linkedin" /> </a> 
 </p>
 
----
+--- -->
 
 # 🙌 **Thank You for Visiting!**
