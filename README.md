@@ -57,7 +57,7 @@ Driven by efficiency, customer satisfaction, and operational excellence.
 
 ---
 
-# 💼 **Professional Experience**
+<!--# 💼 **Professional Experience**
 
 # ⭐ **Senior Consultant – Genpact**
 
@@ -131,7 +131,7 @@ Driven by efficiency, customer satisfaction, and operational excellence.
 
 * Worked on Jira tickets for application enhancements with product development teams.
 
-* Supported development, QA, and operations teams to ensure smooth service request transitions within SLA.
+* Supported development, QA, and operations teams to ensure smooth service request transitions within SLA.-->
 
 # 🏆 **Certifications**
 
