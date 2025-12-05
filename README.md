@@ -170,6 +170,7 @@ Driven by efficiency, customer satisfaction, and operational excellence.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jk-01-IT&theme=tokyo-night" />
+  <img src="https://komarev.com/ghpvc/?username=Jk-01-IT&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
